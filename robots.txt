@@ -1,4 +1,6 @@
-User-Agent: * # disabling all agents by default
+# This file is used to tell web crawlers what they're allowed to access on the website.
+
+User-Agent: *            # disabling all agents by default
 Crawl-delay: 10
 Disallow: /
 
