@@ -1,0 +1,8 @@
+# .gitignore tells Git what files not to track when committing or pushing to the repository.
+
+# General file types
+*.pdf
+
+# VSCode Files and Directories
+vscode/
+*.vs
