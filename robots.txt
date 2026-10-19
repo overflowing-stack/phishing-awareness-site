@@ -1,0 +1,42 @@
+User-Agent: * # disabling all agents by default
+Crawl-delay: 10
+Disallow: /
+
+User-Agent: Googlebot    # Google's web crawler
+Disallow: 
+
+User-Agent: Bingbot      # Bing's web crawler
+Disallow: 
+
+User-Agent: Slurp        # Yahoo's web crawler
+Disallow: 
+
+User-Agent: DuckDuckBot  # DDG's web crawler
+Disallow:
+
+User-Agent: Baiduspider  # Chinese search engine crawler
+Disallow:
+
+User-Agent: YandexBot    # Russian serach engine crawler
+Disallow:
+
+User-Agent: facebot      # Facebook's crawler
+Disallow:
+
+User-Agent: Pinterestbot # Pinterest's crawler
+Disallow:
+
+User-Agent: TwitterBot   # Twitter's crawler
+Disallow: 
+
+#   "beep boop"
+#        _
+#       [ ]
+#      (   )
+#       |>|
+#    __/===\__
+#   //| o=o |\\
+# <]  | o=o |  [>
+#     \=====/
+#    / / | \ \
+#   <_________>
